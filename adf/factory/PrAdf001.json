@@ -1,0 +1,15 @@
+{
+	"name": "PrAdf001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ade581aa-f9a3-4042-8ae8-0ee030fffc10",
+		"tenantId": "06943ac0-3679-4445-9507-60447807fa0d"
+	}
+}
